@@ -1,8 +1,8 @@
 {
-  "version": "0.2.1",
-  "tag": "v0.2.1",
-  "sourceSha": "71692703b9cebb421ddb1d2bd9d881512a138a34",
+  "version": "0.3.0",
+  "tag": "v0.3.0",
+  "sourceSha": "aa508377e29397dcbd5e877b0f7220cbb3d4bab6",
   "sourceRepository": "MFMolaGit/Saving-planner",
-  "releaseUrl": "https://github.com/MFMolaGit/Saving-planner/releases/tag/v0.2.1",
-  "workflowRunUrl": "https://github.com/MFMolaGit/Saving-planner/actions/runs/37218707081"
+  "releaseUrl": "https://github.com/MFMolaGit/Saving-planner/releases/tag/v0.3.0",
+  "workflowRunUrl": "https://github.com/MFMolaGit/Saving-planner/actions/runs/37645903619"
 }
