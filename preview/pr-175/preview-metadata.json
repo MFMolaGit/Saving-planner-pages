@@ -1,5 +1,5 @@
 {
-  "sourceSha": "3760c13a71d23c9b90c05eedfdd54960988e25b6",
+  "sourceSha": "972a5c045f5ac63bf362407ca56414bb265acfc6",
   "backendUrl": "https://saving-planner-backend-pr-175.manuelf-mola.workers.dev",
   "browserApiBaseUrl": "https://saving-planner-preview-proxy.vercel.app/pr/175",
   "purpose": "mobile-network-pr-preview"
