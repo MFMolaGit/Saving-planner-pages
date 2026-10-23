@@ -1,0 +1,35 @@
+{
+  "id": "/Saving-planner-pages/preview/pr-173/",
+  "name": "Saving Planner",
+  "short_name": "Saving Planner",
+  "description": "Planificación de compras y productos del hogar",
+  "start_url": "/Saving-planner-pages/preview/pr-173/",
+  "scope": "/Saving-planner-pages/preview/pr-173/",
+  "display": "standalone",
+  "background_color": "#064C3C",
+  "theme_color": "#007850",
+  "icons": [
+    {
+      "src": "/Saving-planner-pages/preview/pr-173/saving-planner-192.png?v=branded-1",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/Saving-planner-pages/preview/pr-173/saving-planner-512.png?v=branded-1",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "share_target": {
+    "action": "/Saving-planner-pages/preview/pr-173/keep-share-target",
+    "method": "POST",
+    "enctype": "multipart/form-data",
+    "params": {
+      "title": "title",
+      "text": "text",
+      "url": "url"
+    }
+  }
+}
